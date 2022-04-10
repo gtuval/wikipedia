@@ -1,9 +1,23 @@
+.txttitle{
+    text-align:center; 
+    text-decoration:underline;
+    size: 90px;
+}
 .divimg{
     vertical-align:top;
     float: right;
+    border: 1px solid #ddd;
+    padding: 5px;
 }
 .cont{
     background-color:lightgray;
-    width: 80;
+    width: 20vw;
     border: solid;
+}
+.divtxt{
+    width:80vw;
+    display:inline-block;
+}
+h1{
+    text-decoration:underline
 }
