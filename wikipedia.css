@@ -1,0 +1,9 @@
+.divimg{
+    vertical-align:top;
+    float: right;
+}
+.cont{
+    background-color:lightgray;
+    width: 80;
+    border: solid;
+}
